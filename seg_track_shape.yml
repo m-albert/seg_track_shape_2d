@@ -1,4 +1,4 @@
-name: stardist
+name: seg_track_shape
 channels:
   - conda-forge
   - defaults

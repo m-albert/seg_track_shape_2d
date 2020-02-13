@@ -12,11 +12,11 @@
 - open terminal and navigate to a suitable folder <myfolder> on a disk with enough space (cd ...)
 - git clone https://github.com/m-albert/seg_track_shape_2d.git
 - cd seg_track_shape_2d
-- conda env create --file stardist.yml
+- conda env create --file seg_track_shape.yml
 
 ## Usage
 
 - navigate to folder <myfolder>/seg_track_shape_2d
-- conda activate stardist
+- conda activate seg_track_shape
 - jupyter notebook (a browser window should open)
 - in the browser, open the notebook segment_track_analyse.ipynb
