@@ -12,6 +12,10 @@
 - open terminal and navigate to a suitable folder <myfolder> on a disk with enough space (cd ...)
 - git clone https://github.com/m-albert/seg_track_shape_2d.git
 - cd seg_track_shape_2d
+- on MAC:
+  - check if gcc-9 is installed, if not run 'brew install gcc'
+  - export CC=gcc-9
+  - export CXX=g++-9
 - conda env create --file seg_track_shape.yml
 
 ## Usage
