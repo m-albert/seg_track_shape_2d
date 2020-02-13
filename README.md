@@ -10,14 +10,13 @@
 
 - install python using anaconda (or miniconda https://docs.conda.io/en/latest/miniconda.html)
 - open terminal and navigate to a suitable folder <myfolder> on a disk with enough space (cd ...)
-- git clone ...
+- git clone https://github.com/m-albert/seg_track_shape_2d.git
 - cd seg_track_shape_2d
-- conda env create --file stardist.txt
+- conda env create --file stardist.yml
 
 ## Usage
 
 - navigate to folder <myfolder>/seg_track_shape_2d
 - conda activate stardist
 - jupyter notebook (a browser window should open)
-- open the notebook segment_track_analyse.ipynb
-
+- in the browser, open the notebook segment_track_analyse.ipynb
