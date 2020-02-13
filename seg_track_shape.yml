@@ -10,7 +10,7 @@ dependencies:
   - matplotlib
   - pip
   - pip:
-      - tenorflow=1.13
+      - tenorflow==1.13
       - csbdeep==0.4.1
       - czifile==2019.7.2
       - imagecodecs-lite==2019.12.3

@@ -16,7 +16,7 @@
 
 ## Usage
 
-- navigate to folder <myfolder>/seg_track_shape_2d
+- open terminal and navigate to folder <myfolder>/seg_track_shape_2d
 - conda activate seg_track_shape
 - jupyter notebook (a browser window should open)
 - in the browser, open the notebook segment_track_analyse.ipynb
