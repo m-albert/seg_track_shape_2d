@@ -18,4 +18,4 @@ dependencies:
     - stardist==0.4.1
     - tifffile==2019.7.26.2
     - tqdm==4.42.0
-
+    - trackpy
