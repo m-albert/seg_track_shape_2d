@@ -1,7 +1,15 @@
 ## This folder contains raw and processed data
 
-Download data at these links and extract to this folder
+Prepare the raw data like this:
 
-- https://dropfiles.uzh.ch/download?domain=uzh&id=d4adefa3f2f3407494d2cb5b7aa26272-8268d9a3cdbb4d918aeaede93b423f5e
-- 
+- open large videos using Fiji
+- open as virtual stack
+- export as image sequence
 
+Or download raw + already processed data at these links:
+
+"20200121..."
+https://dropfiles.uzh.ch/download?domain=uzh&id=d4adefa3f2f3407494d2cb5b7aa26272-8268d9a3cdbb4d918aeaede93b423f5e
+
+"attempt2..."
+https://dropfiles.uzh.ch/download?domain=uzh&id=cf17c950b8da493b9edc5fda39018390-69058015de9f476cb857225435d34b59
