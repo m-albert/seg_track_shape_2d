@@ -8,14 +8,15 @@ dependencies:
   - numpy
   - scipy
   - matplotlib
-  - tenorflow=1.13
+  - pip
   - pip:
-    - csbdeep==0.4.1
-    - czifile==2019.7.2
-    - imagecodecs-lite==2019.12.3
-    - imageio==2.6.1
-    - scikit-image==0.16.2
-    - stardist==0.4.1
-    - tifffile==2019.7.26.2
-    - tqdm==4.42.0
-    - trackpy
+      - tenorflow=1.13
+      - csbdeep==0.4.1
+      - czifile==2019.7.2
+      - imagecodecs-lite==2019.12.3
+      - imageio==2.6.1
+      - scikit-image==0.16.2
+      - stardist==0.4.1
+      - tifffile==2019.7.26.2
+      - tqdm==4.42.0
+      - trackpy
